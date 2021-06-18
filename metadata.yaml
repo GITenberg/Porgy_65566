@@ -1,0 +1,25 @@
+_repo: Porgy_65566
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Nadejen, Theodore
+    gutenberg_agent_id: '53410'
+    url: http://www.gutenberg.org/2009/agents/53410
+creator:
+  author:
+    agent_name: Heyward, Edwin DuBose
+    gutenberg_agent_id: '53409'
+    url: http://www.gutenberg.org/2009/agents/53409
+description: ''
+gutenberg_issued: '2021-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Porgy
+url: http://www.gutenberg.org/ebooks/65566
