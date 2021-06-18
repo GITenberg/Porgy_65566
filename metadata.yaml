@@ -5,12 +5,17 @@ contributor:
     agent_name: Nadejen, Theodore
     gutenberg_agent_id: '53410'
     url: http://www.gutenberg.org/2009/agents/53410
+covers:
+- cover_type: archival
+  image_path: 65566-h/images/cover.jpg
 creator:
   author:
     agent_name: Heyward, Edwin DuBose
     gutenberg_agent_id: '53409'
     url: http://www.gutenberg.org/2009/agents/53409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65566#Porgy
 gutenberg_issued: '2021-06-08'
 gutenberg_type: Text
 identifiers:
